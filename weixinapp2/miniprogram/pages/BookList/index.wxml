@@ -1,0 +1,5 @@
+<!--pages/BookList/index.wxml-->
+<text>从数据库中读取数据进行渲染</text>
+<view wx:for="{{array}}" wx:for-index="idx" wx:key="idx">
+  {{idx}}: {{item.title}}
+</view>

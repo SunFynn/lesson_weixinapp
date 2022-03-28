@@ -1,0 +1,10 @@
+<!--pages/Book/index.wxml-->
+<text>扫码图示</text>
+
+<button type="primary" bindtap="scanCodeFun">微信扫码识别</button>
+
+<text>识别到的isbn信息： {{isbn}}</text>
+<text>云函数中的sum信息： {{yunCode}}</text>
+
+
+

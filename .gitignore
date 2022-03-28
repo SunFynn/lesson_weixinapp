@@ -1,0 +1,6 @@
+**/node_modules
+
+#
+/weixinapp2/cloudfunctions/Book/node_modules
+
+README.txt
