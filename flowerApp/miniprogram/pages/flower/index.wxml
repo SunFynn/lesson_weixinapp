@@ -1,0 +1,10 @@
+<!--pages/flower/index.wxml-->
+<View class="title">
+  <text>使用百度图片AI功能识别职务</text>
+</View>
+
+<view class="content_button">
+  <button type="primary" bindtap="doUpload" data-index="0">拍照</button>
+  <button type="default" bindtap="doUpload" data-index="1">从本地相册中选取</button>
+</view>
+

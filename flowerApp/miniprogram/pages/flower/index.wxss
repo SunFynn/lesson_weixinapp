@@ -1,0 +1,9 @@
+/* pages/flower/index.wxss */
+.title{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.content_button{
+    margin-top: 80px;
+}

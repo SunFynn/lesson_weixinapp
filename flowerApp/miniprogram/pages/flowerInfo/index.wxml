@@ -1,0 +1,7 @@
+<!--pages/flowerInfo/index.wxml-->
+<text>
+  拿到图片信息
+</text>
+<View>
+  <image src="{{imgUrl}}" mode="aspectFill" />
+</View>
